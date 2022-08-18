@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1660852848 source:/home/luciana/Documentos/Lista1b/2/ex2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+
